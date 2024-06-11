@@ -3,7 +3,7 @@ Merging Office Word documents with ORDS REST
 
 Merging Office Word document with Data from ORDS service
 
-cf https:// gpmfactory.com/woords for details
+cf [https:// gpmfactory.com/woords](https://gpmfactory.com/index.php/2024/06/11/office-word-and-oracle-ords/) for details
 
 Instructions for setup:
 
